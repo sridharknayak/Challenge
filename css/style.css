@@ -1,0 +1,16 @@
+/* CSS Starts here */
+body {
+    background-image: url("../images/img1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+   
+}
+
+.ccenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:350px;
+    padding-top: 180px; 
+    
+}
